@@ -1,6 +1,7 @@
 # Network and Multimedia Final Project - Lighting Network Lite
 
 This program runs in a Go envieronment. Click [here](https://golang.org/doc/code.html) for more information about environment set up.
+
 This project focuses on implementing and testing the features of Lightning Networks. Files related to Lighting Network implementation and testings (listed below) are original works. The Blockchain prototype is modified from [here](https://github.com/Jeiwan/blockchain_go/tree/part_6).
 
 Original works:
