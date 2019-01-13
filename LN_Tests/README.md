@@ -8,8 +8,11 @@ main.go, cli_newfund.go, cli_litsend.go, cli_execcommit.go, cli_endfund.go, lit_
 
 ## Tests
 Test 1 - Blockchain: execute 30 transaction on blockchain and print out execution time
+
 Test 2 - Lightning Network: normal scenario, execute 30 lightning transaction and print out execution time
+
 Test 3 - Lightning Network: Broadcast a commitment prematurely and spend the output before time lock expires (The last transaction should be invalid)
+
 Test 4 - Lightning Network: Broadcast a commitment prematurely and spend the output after time lock expires (Should success)
 
 
